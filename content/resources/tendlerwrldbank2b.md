@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 81cfab19-152b-b1be-8294-cd0563b1db10
 resourcetype: Document
 title: tendlerwrldbank2b.pdf
 uid: c0b25b88-574b-ccf2-6c70-7178106fabe2

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 81cfab19-152b-b1be-8294-cd0563b1db10
 resourcetype: Document
 title: tendler_worldbank.pdf
 uid: aca5d538-89bb-85a3-864e-c2461f90dd1b
