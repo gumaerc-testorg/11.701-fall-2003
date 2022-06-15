@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/6fb2080aafbe6333aaa366159870d784_assign3example.pdf
+file: /courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/6fb2080aafbe6333aaa366159870d784_assign3example.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
