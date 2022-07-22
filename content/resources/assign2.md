@@ -5,6 +5,7 @@ file: /courses/11-701-introduction-to-planning-institutional-processes-in-develo
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assign2.pdf
 uid: 63ac7676-70fe-5148-a222-4f398c22484c
 ---
 Assignment covering sections V/VA of the Syllabus.
-

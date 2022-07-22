@@ -7,6 +7,7 @@ file: /courses/11-701-introduction-to-planning-institutional-processes-in-develo
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: tendlerchapter1.pdf
 uid: f2f398e9-5c62-5463-55ef-d29cf52051ab
 ---
 from "Good Government in the Tropics". pp. 1-20. (c) 1998 The Johns Hopkins University Press. By Tendler, Judith.  Reproduced with permission of The Johns Hopkins University Press
-
