@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: This section provides a list of all readings for this course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 81cfab19-152b-b1be-8294-cd0563b1db10
 ---
 
 The following is a list of all readings for this course. There are three readings by Professor Tendler that are available as PDFs.
 
-"Introduction" from _Good Government in the Tropics_. pp. 1-20. (c) 1998 The Johns Hopkins University Press. ([PDF - 1.2 MB]({{< baseurl >}}/resources/tendlerchapter1)) - Tendler, Judith. Reproduced with permission of The Johns Hopkins University Press  
+"Introduction" from _Good Government in the Tropics_. pp. 1-20. (c) 1998 The Johns Hopkins University Press. ({{% resource_link f2f398e9-5c62-5463-55ef-d29cf52051ab "PDF - 1.2 MB" %}}) - Tendler, Judith. Reproduced with permission of The Johns Hopkins University Press  
 Rural Works Programs in Bangladesh: Community, Technology and Graft (PDF - 1.2 MB)  
 New Lessons from Old Projects: The Workings of Rural Development in North East Brazil (PDF) (PDF - 2.30 MB)
 
