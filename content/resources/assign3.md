@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment covering sections VI-VIII of the Syllabus.
 file: /courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/d2c82c1528a8e9381847b43e503a5f47_assign3.pdf
+file_size: 18440
 file_type: application/pdf
 learning_resource_types:
 - Assignments
