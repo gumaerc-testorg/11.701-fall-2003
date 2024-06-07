@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/aca5d53889bb85a3864ec2461f90dd1b_tendler_worldbank.pdf
+file_size: 1221476
 file_type: application/pdf
 learning_resource_types:
 - Readings
