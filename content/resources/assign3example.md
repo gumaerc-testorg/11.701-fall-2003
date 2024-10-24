@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/6fb2080aafbe6333aaa366159870d784_assign3example.pdf
+file: /ol-ocw-studio-app/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/6fb2080aafbe6333aaa366159870d784_assign3example.pdf
 file_size: 57578
 file_type: application/pdf
 learning_resource_types:
