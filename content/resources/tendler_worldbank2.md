@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/a5d70061c99805d362a09c7153bb02b3_tendler_worldbank2.pdf
+file: /courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/a5d70061c99805d362a09c7153bb02b3_tendler_worldbank2.pdf
 file_size: 3513448
 file_type: application/pdf
 learning_resource_types:
