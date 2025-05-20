@@ -3,7 +3,7 @@ content_type: resource
 description: from "Good Government in the Tropics". pp. 1-20. (c) 1998 The Johns Hopkins
   University Press. By Tendler, Judith.  Reproduced with permission of The Johns Hopkins
   University Press
-file: /ol-ocw-studio-app/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/f2f398e95c62546355efd29cf52051ab_tendlerchapter1.pdf
+file: /courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/f2f398e95c62546355efd29cf52051ab_tendlerchapter1.pdf
 file_size: 1238914
 file_type: application/pdf
 learning_resource_types:
