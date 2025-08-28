@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignments covering sections II-IV of the Syllabus.
-file: /courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/99ef7082496ea150e3847c5dce05a6ad_assign1.pdf
+file: /ol-ocw-studio-app/courses/11-701-introduction-to-planning-institutional-processes-in-developing-countries-fall-2003/99ef7082496ea150e3847c5dce05a6ad_assign1.pdf
 file_size: 20707
 file_type: application/pdf
 learning_resource_types:
